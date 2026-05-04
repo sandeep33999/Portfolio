@@ -1,16 +1,50 @@
-# React + Vite
+# Sandeep's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio! This website showcases my projects, technical skills, and experience as a Software Developer and ML Enthusiast. It features a modern, clean, Apple-inspired minimalist design.
 
-Currently, two official plugins are available:
+🔗 **[Visit the Live Portfolio Here!](https://sandeep33999.github.io/Portfolio/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎨 Features
+- **Modern Minimalist UI**: Pure white aesthetics with soft glassmorphism, gradient accents, and premium typography.
+- **Responsive Layout**: Fully optimized for mobile, tablet, and desktop viewing.
+- **Interactive Project Galleries**: Custom auto-rotating and clickable image carousels for complex projects.
+- **Smooth Animations**: Powered by Framer Motion for beautiful scroll and hover effects.
+- **Functional Contact Form**: Direct email integration via FormSubmit without backend configuration.
 
-## React Compiler
+## 🛠️ Technology Stack
+- **Framework**: [React](https://react.dev/) + [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
+- **Hosting**: GitHub Pages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Running Locally
 
-## Expanding the ESLint configuration
+If you'd like to clone and run this project on your local machine:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sandeep33999/Portfolio.git
+   cd Portfolio
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+   The site will be available at `http://localhost:5173`.
+
+## 📦 Deployment
+
+This project is configured to automatically deploy to GitHub Pages. To publish your latest changes:
+```bash
+npm run deploy
+```
+
+---
+*Designed & Built by Sandeep Prasad Gond*
